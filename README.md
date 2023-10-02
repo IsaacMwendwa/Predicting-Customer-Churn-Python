@@ -16,3 +16,5 @@
 * Thus, the goal is to build a model that uses the information about each customer in the dataset to classify whether or not a new customer will churn. This model, therefore, has two outcomes, or classes: Either a customer will churn, or not churn
 * You can use exploratory data analysis to identify differences between these two classes that can help you better understand the drivers of customer churn. Do churners call customer service more often? Does one state have more churners compared to another?
 * ![image](https://github.com/IsaacMwendwa/Predicting-Customer-Churn-Python/assets/51324520/b21c7058-d5af-4355-9c63-e6208116e4ce)
+
+* ![image](https://github.com/IsaacMwendwa/Predicting-Customer-Churn-Python/assets/51324520/163fad10-2a21-4328-a472-c64c78bfaf11)
